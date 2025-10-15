@@ -1,4 +1,4 @@
-İsim - Soy isim 
-Öğrenci No:
+İsim Soyisim: Ozan Diyar AY
+Öğrenci No: 250541062
 
-sistemin kısa açıklaması (maks. 5-6 satır)
+Bu sözde kod ve akış diyagramı, basit bir ATM sisteminin algoritmasından oluşuyor. Bu algoritmada ATM'den para çekme işlemi ve bu para çekme işleminden önceki kart şifresi ve günlük limit gibi bilgilerin kontrolü simüle ediliyor.

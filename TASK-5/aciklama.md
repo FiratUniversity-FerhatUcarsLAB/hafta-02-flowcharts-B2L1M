@@ -1,3 +1,1 @@
-
-
-sistemin kısa açıklaması (maks. 5-6 satır)
+Bu IoT tabanlı akıllı ev güvenlik sistemi, 7/24 kesintisiz çalışan bir güvenlik çözümüdür. Sistem sürekli olarak hareket ve kapı/pencere sensörlerini kontrol eder, ev sahibinin evde olup olmadığını denetler ve tehdit durumunda üç farklı alarm seviyesine (düşük, orta, yüksek) göre aksiyon alır. Tehdit seviyesine bağlı olarak SMS, mobil uygulama bildirimi ve e-posta gibi farklı bildirim kanallarını kullanır ve gerektiğinde kamera sistemini aktive eder. Alarm durumu, sistem sıfırlanana kadar düzenli kontroller ile devam eder.

@@ -1,3 +1,1 @@
-
-
-sistemin kısa açıklaması (maks. 5-6 satır)
+Bu algoritma, bir hastanenin randevu ve tahlil sonucu görüntüleme sistemini modellemektedir. TC kimlik doğrulaması sonrası kullanıcılar iki temel modüle erişebilmektedir: Randevu modülünde poliklinik, doktor ve saat seçimi yapılarak randevu oluşturulabilir ve SMS ile onay alınabilir. Tahlil modülünde ise mevcut tahlillerin sonuçları kontrol edilebilir, hazır olan sonuçlar görüntülenebilir ve PDF formatında indirilebilir.

@@ -1,0 +1,2 @@
+
+Bu algoritma, bir e-ticaret sisteminin temel işleyişini göstermektedir. Kullanıcı girişi sonrası ürün kategorilerinde gezinme, sepete ürün ekleme ve stok kontrolü yapılmaktadır. Sepet işlemlerinde minimum 50 TL kontrolü, indirim kodu uygulaması ve 200 TL üzeri siparişlerde ücretsiz kargo imkanı sunulmaktadır. Sistem, farklı ödeme yöntemleriyle güvenli bir alışveriş deneyimi sağlamaktadır.

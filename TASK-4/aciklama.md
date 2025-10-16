@@ -1,3 +1,1 @@
-
-
-sistemin kısa açıklaması (maks. 5-6 satır)
+Bu sistem, öğrencilerin ders kayıt sürecini yöneten kapsamlı bir kontrol mekanizması içerir. Öğrenci girişi sonrasında, kontenjan kontrolü, ön koşul dersi kontrolü, zaman çakışması kontrolü ve kredi limiti (≤ 35) kontrolü gibi çoklu kontrol adımlarından geçer. GPA'si 2.5'in altında olan öğrenciler için danışman onayı gerekir. Sistem, tüm bu kontrolleri başarıyla geçen dersler için kayıt işlemini tamamlar ve öğrenciye kayıt özeti sunar.
